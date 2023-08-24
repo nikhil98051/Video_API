@@ -15,8 +15,7 @@ integrated with Amazon Web Services (AWS) services such as Amazon S3 for storage
 - [Amazon EC2 Integration](#amazon-ec2-integration)
 - [Validation and Error Handling](#validation-and-error-handling)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Requirements
 
