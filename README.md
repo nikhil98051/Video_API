@@ -33,9 +33,12 @@ npm install
 
 ##  Create a .env file in the root directory with the following content:
 
-AWS_ACCESS_KEY_ID=your-access-key-id
-AWS_SECRET_ACCESS_KEY=your-secret-access-key
-S3_BUCKET_NAME=your-bucket-name
+* AWS_ACCESS_KEY_ID=your-access-key-id
+
+* AWS_SECRET_ACCESS_KEY=your-secret-access-key
+
+* S3_BUCKET_NAME=your-bucket-name
+
 
 
 ## Start the Server 
